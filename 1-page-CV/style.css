@@ -1,0 +1,74 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 2rem;
+    padding: 1rem;
+    max-width: 800px;
+    border : 2px solid black;
+}
+
+h1 {
+    font-size : 2rem;
+    margin-bottom: 0;
+}
+
+h2 {
+    color:green;
+    font-weight: normal;
+}
+
+section {
+    margin-bottom: 1.5rem 0;
+}
+
+.heading {
+    border-top: 2px solid black;
+    padding-top:1rem;
+}
+
+.label{
+    font-weight: bold;
+    margin-top: 1rem;
+}
+
+.contact, .skills, .education, .experience, .internet {
+    margin-bottom: 1.5rem;
+}
+
+.job-title {
+    color: blue;
+    font-weight: bold;
+}
+
+.ul {
+    list-style-type: none;
+    padding-left: 0;
+}
+
+ul {
+  margin: 0.5rem 0 0 1.5rem;
+}
+
+.company {
+  margin-bottom: 1rem;
+}
+
+.link-section {
+  color: green;
+  font-weight: bold;
+}
+
+a {
+  color: #000;
+}
+
+.internet {
+    margin-top: 1rem;
+    margin-bottom: 1.5rem;
+}
+
+.school-name {
+    font-weight: bold;
+    color:blue
+}
+
+
